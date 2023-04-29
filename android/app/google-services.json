@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491312976711",
+    "project_id": "attendance-fe88e",
+    "storage_bucket": "attendance-fe88e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491312976711:android:72b54a0fed5306abafb262",
+        "android_client_info": {
+          "package_name": "com.rajatkalsotra.face_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491312976711-bt28gdlnc40a38p5k3rch0v61l6q6bhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_MWdC4sGJfYUYRR7Vrdh3wQdo3NP0b58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491312976711-bt28gdlnc40a38p5k3rch0v61l6q6bhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
